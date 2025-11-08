@@ -75,3 +75,9 @@ Hook personnalisé pour lire et écrire des valeurs dans `localStorage` (exemple
 ```bash
 git clone <url-de-ton-repo>
 cd tp-hooks-debutant
+
+---
+
+## Auteur
+
+Siham Jardi
